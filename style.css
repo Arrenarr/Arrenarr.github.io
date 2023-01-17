@@ -1,0 +1,73 @@
+body{
+	
+	background-color:#F4D03F;
+
+}
+
+h1{
+   font-family: Arial;
+   font-size: 60px;
+   color: #5499C7;
+   margin: 20px;
+   position: relative;
+   top:-15px;
+}
+
+.titulo{
+
+	background-color: #FBFCFC;
+	position: absolute;
+	width: 500px;
+	height: 80px;
+	border-radius: 10px;
+
+}
+
+.LinksContainer{
+	position: relative;
+	top: 100px;
+	background-color:#FBFCFC;
+   border-radius: 10px;
+	
+
+}
+
+#inicio{
+	font-family: arial;
+	color: #5499C7;
+	font-size: 30px;
+    padding: 15px;
+    position: relative;
+    left: 80px;
+    
+}
+
+#SobreMi{
+	font-family: arial;
+	color: #5499C7;
+	font-size: 30px;
+    padding: 15px;
+    position: relative;
+    left: 90px;
+    
+}
+
+#Contacto{
+	font-family: arial;
+	color: #5499C7;
+	font-size: 30px;
+    padding: 15px;
+    position: relative;
+    left: 100px;
+    
+}
+
+#Imagenes{
+	font-family: arial;
+	color: #5499C7;
+	font-size: 30px;
+    padding: 15px;
+    position: relative;
+    left: 110px;
+    
+}
